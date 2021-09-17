@@ -18,3 +18,9 @@ http://DKgqDft.com
 http://GJxVzv.com
 http://Ad7AXQj.com
 ```
+
+# Setup
+```
+$ git clone https://github.com/svandragt/regex-reverse-cli.git && cd regex-reverse-cli
+$ composer install
+```
