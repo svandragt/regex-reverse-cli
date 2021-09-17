@@ -1,5 +1,5 @@
 # regex-reverse-cli
-Reverse Regex Command Line Interface
+[Reverse Regex](https://github.com/niklongstone/regex-reverse) Command Line Interface
 
 ```
 $ php regex-reverse-cli.php                   
