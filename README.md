@@ -4,6 +4,7 @@ Reverse Regex Command Line Interface
 ```
 $ php regex-reverse-cli.php                   
 Expected regex missing
+
 $ php regex-reverse-cli.php "http:\/\/\w+\.com"
 regex: http:\/\/\w+\.com
 http://TG.com
